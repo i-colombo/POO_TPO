@@ -1,3 +1,3 @@
-public class Model 
-{
+public class Model {
+  private String name;
 }
